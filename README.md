@@ -1,6 +1,6 @@
 # TensorFlow.js Webcom Multi Object detection.
 
-Multiple object detection using COCOSSDD a pre trained model in TensorFlow.js
+Multiple object detection using COCO-SSD a pre trained model in TensorFlow.js
 
 Feel free to fork this and use it as a quick way to start coding with TensorFlow.js directly or following some other tutorial that needs TensorFlow.js to run.
 
