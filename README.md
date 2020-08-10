@@ -2,6 +2,8 @@
 
 Multiple object detection using COCO-SSD a pre trained model in TensorFlow.js
 
+This porject lives on Glitch at [https://tfjswebcam.glitch.me ](https://tfjswebcam.glitch.me)
+
 Feel free to fork this and use it as a quick way to start coding with TensorFlow.js directly or following some other tutorial that needs TensorFlow.js to run.
 
 ## Your Project
